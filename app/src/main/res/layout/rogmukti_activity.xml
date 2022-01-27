@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rogmukti"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/img3"
+            >
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ وَشِفَاءٌ لِّمَا فِي الصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:layout_margin="20dp"
+                android:textStyle="bold"
+                android:background="#ffff"
+                android:padding="10dp"
+
+
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="wa yashfi sudoora qawmin mumineen,wa shifaun limaa fee as-sudoori wa hudan wa rahmatun lil-mumineen,yakhruju min butooniha sharaabun mukhtalifun alwaanuhu feehi shifaun lin-naas.Wa nunazzilu mina al-qurani ma huwa shifaun wa rahmatun lil-mumineen And We sent down in the Quran such things that have healing and mercy for the believers.Wa idha maridtu fahuwa yashfeen.qul huwa lil-ladheena amanoo hudan wa shifaa
+অর্থ: এবং (আল্লাহ) মুসলমানদের অন্তরসমূহ শান্ত করবেন।এবং অন্তরের রোগের নিরাময়, হেদায়েত ও রহমত মুসলমানদের জন্য। তার পেট থেকে বিভিন্ন রঙে পানীয় নির্গত হয়। তাতে মানুষের জন্যে রয়েছে রোগের প্রতিকার।
+
+আমি কোরআনে এমন বিষয় নাযিল করি যা রোগের সুচিকিৎসা এবং মুমিনের জন্য রহমত। অর্থ: যখন আমি রোগাক্রান্ত হই, তখন তিনিই আরোগ্য দান করেন।বলুন, এটা বিশ্বাসীদের জন্য হেদায়েত ও রোগের প্রতিকার।
+"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:layout_margin="20dp"
+                android:textStyle="bold"
+                android:background="#ffff"
+                android:padding="10dp"
+
+
+                />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

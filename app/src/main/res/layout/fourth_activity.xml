@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fourth"
+    android:orientation="vertical"
+    android:background="#b0afae"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+
+        >
+
+        <TextView
+            android:id="@+id/fatiha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="সূরা ফাতিহা"
+            android:textSize="50dp"
+            android:gravity="center"
+            android:textColor=" #ff704d"
+            android:layout_margin="30dp"
+            android:background="#ffebe6"
+            android:padding="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বিসমিল্লাহির রহমা-নির রহি-ম।
+আলহামদু লিল্লাহি রব্বিল আ -লামি-ন।
+আররহমা-নির রাহি-ম।
+মা-লিকি ইয়াওমিদ্দি-ন।
+ইয়্যা-কা না’বুদু ওয়া ইয়্যা-কা নাসতাই’-ন
+ইহদিনাস সিরাতা’ল মুসতাকি’-ম
+সিরাতা’ল্লা যি-না আনআ’মতা আ’লাইহিম গা’ইরিল মাগ’দু’বি আ’লাইহিম ওয়ালা দ্দ-ল্লি-ন।"
+            android:textSize="21sp"
+            android:gravity="center"
+            android:textColor="#080301"
+            android:layout_margin="30dp"
+            android:padding="10dp"
+            android:background="#ab924f"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আল্লাহকে ভয় কর"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:textColor=" #000000"
+            android:layout_margin="30dp"
+            android:padding="20dp"
+            android:background="#ab924f"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

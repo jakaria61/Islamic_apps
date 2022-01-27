@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".nas"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+
+        >
+
+        <TextView
+            android:id="@+id/fatiha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="সূরা আন নাস "
+            android:textSize="50dp"
+            android:gravity="center"
+            android:textColor=" #ff704d"
+            android:layout_margin="30dp"
+            android:background="#ffebe6"
+            android:padding="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="কুল আ‘ঊযুবিরাব্বিন্না-ছ,
+মালিকিন্না-ছ,
+ইলা-হিন্না-ছ।
+মিন শাররিল ওয়াছ ওয়া-ছিল খান্না-ছ।
+আল্লাযী ইউওয়াছবিছুফী সুদূরিন্নাছ-।
+মিনাল জিন্নাতি ওয়ান্না-ছ।"
+            android:textSize="21sp"
+            android:gravity="center"
+            android:textColor="#080301"
+            android:layout_margin="30dp"
+            android:padding="10dp"
+            android:background="#ab924f"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আল্লাহ মহান"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:textColor=" #000000"
+            android:layout_margin="30dp"
+            android:padding="20dp"
+            android:background="#ab924f"
+            />
+
+
+    </LinearLayout>
+</LinearLayout>

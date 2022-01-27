@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".allamol"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আমল সমুহ"
+                android:textSize="50dp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+
+            <TextView
+                android:id="@+id/rogmuktiramol"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="রোগমুক্তির ৬টি আমল"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+                android:id="@+id/richman"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ধনী হওয়ার দোয়া ও আমল"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ইফতারের দোয়া ও আমল"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="অভাব থেকে মুক্তির  আমল"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="চাকরি দোয়া ও আমল "
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

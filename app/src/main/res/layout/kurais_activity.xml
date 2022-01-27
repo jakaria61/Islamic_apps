@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".kurais"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center"
+
+        >
+
+        <TextView
+            android:id="@+id/fatiha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="সূরা কুরাইশ"
+            android:textSize="50dp"
+            android:gravity="center"
+            android:textColor=" #ff704d"
+            android:layout_margin="30dp"
+            android:background="#ffebe6"
+            android:padding="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" লিঈলা-ফি কুরাইশ।
+ঈলা-ফিহিম রিহলাতাশশিতাই ওয়াসসাঈফ।
+ফালইয়া‘বুদূরাব্বা হা-যাল বাঈত।
+আল্লাযীআতা‘আমাহুম মিন জূ‘ইওঁ ওয়া আ-মানাহুম মিন খাওফ।"
+            android:textSize="21sp"
+            android:gravity="center"
+            android:textColor="#080301"
+            android:layout_margin="30dp"
+            android:padding="10dp"
+            android:background="#ab924f"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আল্লাহ অন্তর্যামী ।"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:textColor=" #000000"
+            android:layout_margin="30dp"
+            android:padding="20dp"
+            android:background="#ab924f"
+            />
+
+
+    </LinearLayout>
+</LinearLayout>

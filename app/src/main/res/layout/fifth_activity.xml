@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fifth">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="হযরত আবু বকর (রা.)
+"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="রাসুল (সা.) এর সবচেয়ে ঘনিষ্ঠজন ছিলেন হযরত আবু বকর (রা.)। তার জন্মসাল সম্পর্কে সঠিক কোনো তথ্য জানা যায় না। তবে অনুমান করে দেখা গেছে, তিনি রাসুল (সা.) এর জন্মের ২ বছর পর অর্থাৎ ৫৭২ খ্রিষ্টাব্দে জন্মগ্রহণ করেছেন তিনি। এ মহান খলিফা ৬৩৪ খ্রিস্টাব্দের ২৩ আগস্ট ইন্তেকাল করেন।"
+                android:textSize="12sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="হযরত ওমর (রা.)"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সাহাবিদের মধ্যে তিনিই একমাত্র ব্যক্তি যার নবী হওয়ার পূর্ণ যোগ্যতা ছিলো। কিন্তু রাসুল (সা.) আখেরি নবী তথা শেষ পয়গম্বর- এটা আল্লাহর কাছে আগেই লিখিত হয়ে গেছে। ইতিহাসবিদদের ধারণা, রাসুল (সা.) এর জন্মের ১২ বছর পর অর্থাৎ ৫৮২ খ্রিস্টাব্দে হয়রত ওমর (রা.) জন্মগ্রহণ করেন। ৬৪৪ খ্রিস্টাব্দের ৩১ অক্টোবর ফজর নামাজের সময় আবু লুলু নামে এক মুনাফিক ওমরকে ছুরি মেরে আহত করেন। এর তিনদিন পর ৩ নভেম্বর খলিফা শাহাদাত বরণ করেছেন।"
+                android:textSize="12sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="হযরত উসমান (রা.)"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="রাসুল (সা.) এর দুই কন্যাকে বিয়ে করার কারণে ইসলামের ইতিহাসে তিনি জিননুরাইন বা দুই নুরের অধিকারী হিসেবে বিশেষভাবে পরিচিতি। পবিত্র কোরআন সংকলনেও উসমান (রা.) এর অবদান অনস্বীকার্য। তিনি ৫৮৯ খ্রিস্টাব্দে জন্মগ্রহণ করেন এবং ৬৫৬ খ্রিস্টাব্দে জুন মাসের ১৭ তারিখে কোরআন পাঠরত অবস্থায় দুর্বৃত্তদের হাতে শহিদ হন।"
+                android:textSize="12sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="হজরত আলী (রা.)"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ঐতিহাসিকদের অনুমান, ৬০০ খ্রিস্টাব্দে ইসলামের চতুর্থ খলিফা হযরত আলী (রা.) জন্মগ্রহণ করেন। উসমান (রা.) এর শাহাদাতের পর আলী (রা.) খলিফার দায়িত্ব গ্রহণ করেন। তখন রাষ্ট্রে বিশৃঙ্খলা শুরু হয়ে যায়। ৬৬১ খ্রিস্টাব্দের ২৪ জানুয়ারি তিনি এক মুনাফিকের অতর্কিত হামলায় শাহাদাতবরণ করেন।"
+                android:textSize="12sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ওমর ইবনে আবুল আজিজ (রা.)"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ইসলামের পঞ্চম খলিফা ওমর ইবনে আবদুল আজিজ হলেন দ্বিতীয় খলিফা হযরত ওমরের নাতি। তিনি ৬৮২ খ্রিস্টাব্দের ২ নভেম্বর জন্মগ্রহণ করেন এবং ৭২০ খ্রিস্টাব্দের ৩১ জানুয়ারি মৃত্যুবরণ করেন।"
+                android:textSize="12sp"
+                android:gravity="center"
+                android:textColor=" #ff704d"
+                android:layout_margin="30dp"
+                android:background="#ffebe6"
+                android:padding="10dp"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
